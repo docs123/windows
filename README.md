@@ -8,6 +8,7 @@ Things I really need
 - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases/latest)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc/releases/latest)
+- [ShareX](https://github.com/ShareX/ShareX/releases/latest)
 - [LoL](https://signup.euw.leagueoflegends.com/en/signup/redownload)
 
 Less important things
