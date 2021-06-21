@@ -17,6 +17,7 @@ browser.urlbar.dnsResolveSingleWordsAfterSearch = 0
 ### Last steps
 - [x] Don't save passwords
 - [x] Ask were to save files
+- [x] Always show bookmarks toolbar
 - [x] Install extensions
   - [x] [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
 
@@ -24,3 +25,6 @@ browser.urlbar.dnsResolveSingleWordsAfterSearch = 0
 
 - [x] Dark theme
 - [x] Colored accents
+- [x] Taskbar on top
+
+That's it for now
