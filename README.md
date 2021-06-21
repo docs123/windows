@@ -19,3 +19,4 @@ Less important things
 - [nomacs](https://github.com/nomacs/nomacs/releases/latest)
 - [foobar2000](https://www.foobar2000.org/download)
 - [mpv](https://packages.msys2.org/package/mingw-w64-x86_64-mpv?repo=mingw64)
+- [QEMU](https://packages.msys2.org/package/mingw-w64-x86_64-qemu?repo=mingw64)
