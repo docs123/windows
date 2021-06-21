@@ -7,6 +7,7 @@ Things I really need
 - [MSYS2](https://www.msys2.org/)
 - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases/latest)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [KeePassXC](https://github.com/keepassxreboot/keepassxc/releases/latest)
 - [LoL](https://signup.euw.leagueoflegends.com/en/signup/redownload)
 
 Less important things
