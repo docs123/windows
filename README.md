@@ -16,6 +16,6 @@ Less important things
 - [Ghidra](https://ghidra-sre.org/)
 - [Python](https://www.python.org/)
 - A few pip packages
-- [nomacs](https://github.com/nomacs/nomacs/releases)
+- [nomacs](https://github.com/nomacs/nomacs/releases/latest)
 - [foobar2000](https://www.foobar2000.org/download)
 - [mpv](https://packages.msys2.org/package/mingw-w64-x86_64-mpv?repo=mingw64)
