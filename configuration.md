@@ -55,6 +55,10 @@ Add `C:\msys64\mingw64\bin` to System PATH
 
 - [x] Tick minimal PATH option in installer
 
+## PowerShell
+
+- [x] Install [ColorTool](https://github.com/microsoft/terminal/tree/main/src/tools/ColorTool)
+
 ## VS Code
 
 Don't forget to add this later
