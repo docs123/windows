@@ -22,6 +22,7 @@ browser.urlbar.dnsResolveSingleWordsAfterSearch = 0
   - [x] [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
   - [x] [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
   - [ ] [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/)
+  - [ ] [SauceNAO](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/)
 
 ## Windows 10
 
