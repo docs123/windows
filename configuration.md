@@ -21,6 +21,7 @@ browser.urlbar.dnsResolveSingleWordsAfterSearch = 0
 - [x] Install extensions
   - [x] [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
   - [x] [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+  - [ ] [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/)
 
 ## Windows 10
 
