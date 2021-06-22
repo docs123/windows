@@ -13,7 +13,7 @@ Things I really need
 
 Less important things
 
-- [VSCode](https://github.com/microsoft/vscode/releases/latest)
+- [VS Code](https://github.com/microsoft/vscode/releases/latest)
 - [Emacs](https://packages.msys2.org/package/mingw-w64-x86_64-emacs?repo=mingw64)
 - [Ghidra](https://ghidra-sre.org/)
 - [Python](https://www.python.org/)
@@ -23,3 +23,4 @@ Less important things
 - [mpv](https://packages.msys2.org/package/mingw-w64-x86_64-mpv?repo=mingw64)
 - [QEMU](https://packages.msys2.org/package/mingw-w64-x86_64-qemu?repo=mingw64)
 - [7-Zip](https://www.7-zip.org/)
+- [Okular](https://www.microsoft.com/fr-fr/p/okular/9n41msq1wnm8)
