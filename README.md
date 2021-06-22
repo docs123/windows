@@ -4,7 +4,7 @@ Things I really need
 
 - [Ventoy](https://github.com/ventoy/Ventoy/releases/latest)
 - [Git for Windows](https://github.com/git-for-windows/git/releases/latest)
-- [MSYS2](https://www.msys2.org/)
+- [MSYS2](https://github.com/msys2/msys2-installer/releases/latest)
 - [PowerShell Core](https://github.com/PowerShell/PowerShell/releases/latest)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc/releases/latest)
