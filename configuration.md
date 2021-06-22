@@ -6,7 +6,7 @@
 
 ## Firefox
 
-Annoying "bug"
+Annoying default setting
 
 ```
 about:config
@@ -32,6 +32,29 @@ browser.urlbar.dnsResolveSingleWordsAfterSearch = 0
 - [x] Disable "Enhance pointer precision" in "Mouse Properties"
 - [x] Set "Configure Automatic Updates" to "Notify for download and auto install"  
 *Edit group policy > Computer configuration > Administrative Templates > Windows Components > Windows Update*
+
+## pip
+
+```bash
+pip install --user --upgrade youtube_dl
+pip install --user --upgrade streamlink
+```
+
+Next, add `C:\Users\Anon\AppData\Roaming\Python\Python39\Scripts` to PATH
+
+## MSYS2
+
+```bash
+# Installation
+pacman -Syu
+pacman -Su
+pacman -S --needed base-devel mingw-w64-x86_64-toolchain
+
+# My packages
+pacman -S mingw-w64-x86_64-mpv
+pacman -S mingw-w64-x86_64-emacs
+pacman -S mingw-w64-x86_64-qemu
+```
 
 ## More
 
