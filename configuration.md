@@ -6,29 +6,22 @@
 
 ## Firefox
 
-Annoying default setting
-
-```
-about:config
-browser.urlbar.dnsResolveSingleWordsAfterSearch = 0
-```
-[Source](https://old.reddit.com/r/firefox/comments/hfqqpc/how_to_remove_did_you_mean_to_go_to/fw19h2y/?context=3)
-
-### Last steps
+- [x] Set `browser.urlbar.dnsResolveSingleWordsAfterSearch = 0` in `about:config`
 - [x] Don't save passwords
 - [x] Ask were to save files
 - [x] Always show bookmarks toolbar
-- [x] Install extensions
+- [x] Install add-ons
   - [x] [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
   - [x] [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
-  - [ ] [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/)
-  - [ ] [SauceNAO](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/)
+  - [x] [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/)
+  - [x] [SauceNAO](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/)
 
 ## Windows 10
 
 - [x] Dark theme
 - [x] Colored accents
 - [x] Taskbar on top
+- [x] Pin Home folder and Recycle Bin to "Quick access"
 - [x] Disable "Enhance pointer precision" in "Mouse Properties"
 - [x] Set "Configure Automatic Updates" to "Notify for download and auto install"  
 *Edit group policy > Computer configuration > Administrative Templates > Windows Components > Windows Update*
@@ -56,7 +49,13 @@ pacman -S mingw-w64-x86_64-emacs
 pacman -S mingw-w64-x86_64-qemu
 ```
 
-## VSCode
+Add `C:\msys64\mingw64\bin` to System PATH
+
+## Git for Windows
+
+- [x] Tick minimal PATH option in installer
+
+## VS Code
 
 Don't forget to add this later
 
