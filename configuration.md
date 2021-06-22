@@ -58,6 +58,7 @@ Add `C:\msys64\mingw64\bin` to System PATH
 ## PowerShell
 
 - [x] Install [ColorTool](https://github.com/microsoft/terminal/tree/main/src/tools/ColorTool)
+- [x] Download [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 ## VS Code
 
