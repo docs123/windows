@@ -56,6 +56,10 @@ pacman -S mingw-w64-x86_64-emacs
 pacman -S mingw-w64-x86_64-qemu
 ```
 
+## VSCode
+
+Don't forget to add this later
+
 ## More
 
 That's it for now
