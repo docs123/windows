@@ -20,6 +20,7 @@ browser.urlbar.dnsResolveSingleWordsAfterSearch = 0
 - [x] Always show bookmarks toolbar
 - [x] Install extensions
   - [x] [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
+  - [x] [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 
 ## Windows 10
 
