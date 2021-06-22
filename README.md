@@ -24,3 +24,4 @@ Less important things
 - [QEMU](https://packages.msys2.org/package/mingw-w64-x86_64-qemu?repo=mingw64)
 - [7-Zip](https://www.7-zip.org/)
 - [Okular](https://www.microsoft.com/fr-fr/p/okular/9n41msq1wnm8)
+- [VMware Workstation](https://www.vmware.com/go/getworkstation-win)
