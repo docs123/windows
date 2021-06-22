@@ -26,5 +26,10 @@ browser.urlbar.dnsResolveSingleWordsAfterSearch = 0
 - [x] Dark theme
 - [x] Colored accents
 - [x] Taskbar on top
+- [x] Disable "Enhance pointer precision" in "Mouse Properties"
+- [x] Set "Configure Automatic Updates" to "Notify for download and auto install"  
+*Edit group policy > Computer configuration > Administrative Templates > Windows Components > Windows Update*
+
+## More
 
 That's it for now
