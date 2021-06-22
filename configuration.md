@@ -49,7 +49,7 @@ pacman -S mingw-w64-x86_64-emacs
 pacman -S mingw-w64-x86_64-qemu
 ```
 
-Add `C:\msys64\mingw64\bin` to System PATH
+Add `C:\msys64\mingw64\bin` and `C:\msys64\usr\bin` to System PATH
 
 ## Git for Windows
 
@@ -66,4 +66,4 @@ Don't forget to add this later
 
 ## More
 
-That's it for now
+- Emacs (deserves its own separate section)
